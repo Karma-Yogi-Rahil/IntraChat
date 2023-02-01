@@ -5,7 +5,7 @@
 #
 > A project to learn Sockets
 
->![Demo Video](https://www.youtube.com/watch?v=Dw5B0O975uE)
+>[Demo Video](https://www.youtube.com/watch?v=Dw5B0O975uE)
 >![Demo Image](img/IntraChat_qMPBj3GTyE.png)
 
 
