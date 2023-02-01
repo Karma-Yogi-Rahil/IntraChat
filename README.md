@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IntraChat
 
 ### A instant messaging platform for clients within the network.
@@ -12,6 +11,3 @@
 
 # Download Link
 Click [hear](https://github.com/Karma-Yogi-Rahil/IntraChat/releases/tag/beta)
-=======
-# IntraChat
->>>>>>> parent of bcc28a6 (Update ReadMe)
